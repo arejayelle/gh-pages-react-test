@@ -2,6 +2,7 @@
   "name": "test-react-ghp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://arejayelle.github.io/gh-pages-react-test/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
